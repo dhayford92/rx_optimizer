@@ -1,0 +1,6 @@
+venv
+./__venv__/bin/pip install -r requirements.txt
+__pycharm__/helpers/pydev/setup_cython.py build_ext --inplace
+.\__pycharm__
+*../__pycharm__
+__pycache__

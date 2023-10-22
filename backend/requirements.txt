@@ -1,0 +1,16 @@
+fastapi
+tortoise-orm
+uvicorn
+aerich
+passlib
+bcrypt
+gunicorn
+python-multipart
+Pillow
+aiofiles
+python-dotenv
+asyncmy
+requests
+python-jose
+cryptography
+email-validator
